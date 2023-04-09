@@ -18,8 +18,8 @@
     align-items: center;
     position: relative;
     margin-top: 0.6rem;
-    box-shadow: 0 0 5px gray;
-    color: gray;
+    box-shadow: 0 0 5px rgb(143, 124, 124);
+    color: rgb(143, 124, 124);
 }
 
 .pTag{

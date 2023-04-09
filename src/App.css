@@ -1,7 +1,12 @@
 .App {
-    text-align: center;
     height: 100%;
     width: 100%;
     display: flex;
     flex-direction: column;
+    text-align: center;
+    /* align-items: center; */
+    background: url("https://img.freepik.com/premium-photo/pencil-checking-off-golden-todo-list-with-copy-space-dark-background_671359-98.jpg?w=2000");
+    background-size: 100% 100%;
   }
+
+ 
