@@ -1,0 +1,43 @@
+
+
+.inputMain{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.inputDiv{
+    height: 100%;
+    width: 30%;
+    border: 2px solid gray;
+    display: flex;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.inputDiv input{
+    height: 100%;
+    width: 85%;
+
+    border: none;
+    
+    outline: none;
+    padding-left: 1rem;
+    color: gray;
+    border-radius: 20px;
+}
+
+.inputDiv button{
+    height: 100%;
+    width: 15%;
+    background-color: transparent;
+    border: none;
+    color: gray;
+    cursor: pointer;
+    border-left: 2px solid gray;
+}

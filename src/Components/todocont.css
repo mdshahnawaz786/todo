@@ -1,0 +1,56 @@
+.todoContainer{
+    width: 50%;
+    overflow: scroll;
+    overflow: auto;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    margin-top: 50px;
+    
+}
+
+.lists{
+    height: 50px;
+    width: 90%;
+    display: flex;
+    margin-top: 0.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    align-items: center;
+    position: relative;
+    margin-top: 0.6rem;
+    box-shadow: 0 0 5px gray;
+    color: gray;
+}
+
+.pTag{
+    margin-left: 1rem;
+    font-size: 1.5rem;
+}
+
+.inputBox {
+    margin-left: 1rem;
+    height: 50%;
+}
+
+.iconContainer{
+    height: 100%;
+    width: 15%;
+    position: absolute;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.inputContainer2{
+    height: 30%;
+    width: 30%;
+    background-color: transparent;
+    border: none;
+}
+
+.checkedClass{
+    text-decoration: line-through;
+    margin-left: 1rem;
+    font-size: 1.5rem;
+}
